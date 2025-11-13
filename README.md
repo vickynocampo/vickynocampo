@@ -1,28 +1,56 @@
-# 💠 Sabiduria.ar
+# Victoria Navarro Ocampo  
+Full Stack Developer · Data Analyst · IA Aplicada · Diseño Gráfico  
 
-[https://sabiduria.ar](https://sabiduria.ar) — una consultora que integra **Datos, Desarrollo Web, Inteligencia Artificial, Diseño y Filosofía** para ayudar a empresas y personas a tomar **decisiones más sabias**.  
-
-## 💡 Sobre nosotros  
-Apasionados por la intersección entre tecnología y pensamiento crítico.  
-Nos especializamos en **Business Intelligence, Data Analytics y Desarrollo Front-End**, combinando visión estratégica con diseño y storytelling para transformar datos en conocimiento claro y aplicable.  
-
-## 🧠 Áreas de enfoque  
-- Data Analytics, BI & Visualización (Power BI, SQL, Python)  
-- Desarrollo Web (PHP, React, MySQL, APIs)  
-- Inteligencia Artificial aplicada a negocios  
-- Diseño UI/UX y Comunicación Visual  
-- Filosofía de la Decisión y Ética Tecnológica  
-
-## 🛠️ Actualmente  
-- Desarrollando proyectos propios de **IA aplicada y educación digital**  
-- Explorando **automations, LLMs y arquitectura de datos moderna**  
-
-## 🌍 Buscamos colaborar en  
-Proyectos con impacto real en **educación, tecnología ética y transformación digital**  
-
-📫 **Contacto:** [sabiduria.ar](https://sabiduria.ar) | +54 9 11 4048-5355  | info@sabiduria.ar
+Founder - Consultora y blog sobre Data, IA, Desarrollo Web, Diseño y Toma de Decisiones.  
+https://www.sabiduria.ar 
 
 ---
 
-> “La sabiduría no está en los datos, sino en cómo los transformamos en decisiones.”  
-> — *Sabiduria.ar*
+## 👩‍💻 Sobre mí
+
+Me interesa especialmente:
+- Business Intelligence y analítica de datos  
+- Desarrollo web full stack y arquitecturas simples  
+- Inteligencia Artificial aplicada a negocio  
+- Procesos internos, modelos de datos y flujo de información  
+- Crear comunidad de aprendizaje constante
+- 
+---
+
+## 🧰 Stack y herramientas
+
+**Lenguajes & Web**  
+- JavaScript (Node.js, Express, React)  
+- PHP 8, HTML5, CSS3  
+- SQL, MySQL  
+
+**Data & IA**  
+- Python (Pandas, modelos aplicados)  
+- Power BI, Tableau  
+- Google Data Studio / Looker Studio  
+- Talend y ETL  
+- LLMs, chatbots y asistentes locales
+
+**Diseño & Comunicación**  
+- Illustrator, Photoshop, InDesign  
+- Figma, Canva  
+- Diseño editorial (libros, e-books, revistas, catálogos)
+
+---
+## 📂 Proyectos destacados
+
+- **Agronomics.ar** – Plataforma de IA y análisis de datos para el sector agro argentino, con foco en soluciones predictivas.  
+- **Bookify.ar** – Marketplace de libros con stack Node.js + Express + Sequelize + MySQL y dashboard en React.  
+- **Promptify.ar** – Servicios de IA aplicada y optimización de prompts para mejorar flujos de trabajo y contenidos.  
+- **Sportify.ar** – Blog y proyectos de análisis de datos deportivos.  
+- **RecoveryKids** – Proyecto orientado a productos de ortopedia y soluciones para niños.  
+- **Ketornate** – Iniciativa de producto digital en desarrollo, centrada en tecnología y datos con foco práctico.  
+- **Sol.ar** – Propuesta de zona de Internet para certificar acciones solidarias y proyectos de impacto social.
+
+## 📫 Contacto
+
+- 🌐 Web: https://www.sabiduria.ar  
+- 🔗 LinkedIn: https://www.linkedin.com/in/victoria-navarro-ocampo-fullstack-developer-data-analyst  
+- ✉️ Email: info@sabiduria.ar  
+
+Siempre abierta a colaborar en proyectos de **Data, Web, IA aplicada y diseño** con propósito real.
