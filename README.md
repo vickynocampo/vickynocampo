@@ -13,8 +13,8 @@ Me interesa especialmente:
 - Desarrollo web full stack y arquitecturas simples  
 - Inteligencia Artificial aplicada a negocio  
 - Procesos internos, modelos de datos y flujo de información  
-- Crear comunidad de aprendizaje constante
-- 
+- Crear comunidad de aprendizaje continuo
+  
 ---
 
 ## 🧰 Stack y herramientas
