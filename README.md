@@ -10,7 +10,7 @@ https://www.sabiduria.ar
 
 Me interesa especialmente:
 - Business Intelligence y analítica de datos  
-- Desarrollo web full stack y arquitecturas simples  
+- Desarrollo web full stack  
 - Inteligencia Artificial aplicada a negocio  
 - Procesos internos, modelos de datos y flujo de información  
 - Crear comunidad de aprendizaje continuo
@@ -35,16 +35,17 @@ Me interesa especialmente:
 - Illustrator, Photoshop, InDesign  
 - Figma, Canva  
 - Diseño editorial (libros, e-books, revistas, catálogos)
+- Branding
 
 ---
 ## 📂 Proyectos destacados
 
 - **Agronomics.ar** – Plataforma de IA y análisis de datos para el sector agro argentino, con foco en soluciones predictivas.  
 - **Bookify.ar** – Marketplace de libros con stack Node.js + Express + Sequelize + MySQL y dashboard en React.  
-- **Promptify.ar** – Servicios de IA aplicada y optimización de prompts para mejorar flujos de trabajo y contenidos.  
+- **Promptify.ar** – Servicios de IA aplicada y optimización de prompts para mejorar flujos de trabajo y contenidos en React.
 - **Sportify.ar** – Blog y proyectos de análisis de datos deportivos.  
 - **RecoveryKids** – Proyecto orientado a productos de ortopedia y soluciones para niños.  
-- **Ketornate** – Iniciativa de producto digital en desarrollo, centrada en tecnología y datos con foco práctico.  
+- **Ketorante** – Proyecto de restaurante especializado en comida Keto.
 - **Sol.ar** – Propuesta de zona de Internet para certificar acciones solidarias y proyectos de impacto social.
 
 ## 📫 Contacto
@@ -52,5 +53,3 @@ Me interesa especialmente:
 - 🌐 Web: https://www.sabiduria.ar  
 - 🔗 LinkedIn: https://www.linkedin.com/in/victoria-navarro-ocampo-fullstack-developer-data-analyst  
 - ✉️ Email: info@sabiduria.ar  
-
-Siempre abierta a colaborar en proyectos de **Data, Web, IA aplicada y diseño** con propósito real.
